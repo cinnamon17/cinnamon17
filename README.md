@@ -5,12 +5,12 @@ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/lin
 <a href="https://www.instagram.com/juniormoncada7/"><img width="30px%" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></>
 </p>
 
-<img align="right" width="33%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <a>
 
 </a>
 <br>
-Hi 👋, i'm Nelson Moncada, a passionate certificated full stack web developer and a freelance software engineer. My passion is collaborate in a passionate team in the creation of transcendental
+Hi 👋, i'm Nelson Moncada, a passionate certificated full stack web developer and a freelance software engineer. My passion is contribute in a passionate team in the creation of transcendental
 projects.
 
 ------------
