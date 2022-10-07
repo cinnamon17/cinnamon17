@@ -20,7 +20,7 @@ projects.
 - 🔭 I’m currently working on open source projects
 - 💬 Ask me about whatever you want;
 
-## Languagues and tools:
+## Languages and tools:
 
 <p width="100%">
     <img width="30px%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
