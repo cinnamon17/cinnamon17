@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/lin
 
 </a>
 <br>
-Hi 👋, i'm Nelson Moncada, a passionate certificated full stack web developer and a freelance software engineer. My passion is contribute in a passionate team in the creation of transcendental
+Hi 👋, i'm Nelson Moncada, a passionate certificated full stack web developer and a freelance software engineer. My passion is to contribute in a passionate team in the creation of transcendental
 projects.
 
 ------------
