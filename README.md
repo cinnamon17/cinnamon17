@@ -1,7 +1,6 @@
-
 <p width="100%" align="center">
     <a href="https://www.linkedin.com/in/cinnamon17/"><img width="30px%" 	
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"><a/>	<a href ="https://twitter.com/JuniorMoncada7"><img width="30px%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+src="https://avatars.githubusercontent.com/u/357098?s=48&v=4"><a/>	<a href ="https://twitter.com/JuniorMoncada7"><img width="30px%" src="https://avatars.githubusercontent.com/u/50278?s=48&v=4"></a>
 <a href="https://www.instagram.com/juniormoncada7/"><img width="30px%" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></>
 </p>
 
